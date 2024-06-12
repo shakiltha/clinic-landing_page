@@ -1,8 +1,8 @@
 import HeartImg from "../assets/images/Path 2380.png";
-import XrayIcon from "../assets/images/Icon.png";
+import XrayIcon from "../assets/images/x-ray.png";
 import CrutchesIcon from "../assets/images/Icons.png";
-import PulmonaryIcon from "../assets/images/Icon-1.png";
-import BrainIcon from "../assets/images/Icon-2.png";
+import PulmonaryIcon from "../assets/images/pulmonary.png";
+import BrainIcon from "../assets/images/neurology.png";
 import DentalIcon from "../assets/images/Icon-3.png";
 import DotBox from "../assets/images/Design element - Circles.png";
 
