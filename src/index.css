@@ -66,3 +66,35 @@
   font-weight: 900;
   font-style: normal;
 }
+
+/* styling for testimonials component (best practice - place the styling in a same folder for specific component) */
+
+.open-quote::before {
+  content: url('./assets/images/Icon metro-quote.png');
+}
+
+.open-quote::after {
+  content: url('./assets/images/Icon metro-quote-1.png');
+  margin-left: 19rem;
+}
+
+@media (min-width: 768px) {
+  .open-quote::after {
+    content: url('./assets/images/Icon metro-quote-1.png');
+    margin-left: 30rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .open-quote::after {
+    content: url('./assets/images/Icon metro-quote-1.png');
+    margin-left: 25rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .open-quote::after {
+    content: url('./assets/images/Icon metro-quote-1.png');
+    margin-left: 30rem;
+  }
+}
