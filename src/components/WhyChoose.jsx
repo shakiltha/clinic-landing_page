@@ -15,7 +15,7 @@ const WhyChoose = () => {
           alt=""
           className="hidden lg:block lg:absolute lg:top-0  lg:z-10"
         />
-        <section className="my-4 lg:ml-3 lg:w-[22rem] xl:w-[40rem] lg:absolute lg:top-28 xl:left-16 lg:z-20">
+        <section className="my-4 lg:ml-3 lg:w-[22rem] xl:w-[38rem] lg:absolute lg:top-28 xl:left-16 lg:z-20">
           <h3 className="font-neueHaasDisplayMedium text-2xl lg:text-4xl">
             Why Choose Our Clinic?
           </h3>

@@ -27,7 +27,7 @@ const MeetOurDoctors = () => {
             className="hidden lg:block absolute lg:left-[44rem] xl:left-[70rem]"
             alt=""
           />
-          <section className="lg:absolute lg:top-16 lg:left-4 xl:left-56">
+          <section className="lg:absolute lg:top-16 lg:left-4 xl:left-48">
             <section className="lg:flex lg:gap-2 lg:justify-center">
               <section>
                 <img className="mx-auto" src={doctor1} alt="" />
