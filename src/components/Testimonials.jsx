@@ -40,7 +40,7 @@ const Testimonials = () => {
               <p className="roboto-regular">
                 "For years, I felt sluggish and unmotivated. I just couldn't
                 seem to get my energy back. Then I found Vitality Clinic. Dr.
-                [Doctor's name] listened carefully to my concerns and created a
+                Jon Doe listened carefully to my concerns and created a
                 personalized plan that addressed my specific needs. Now, I wake
                 up feeling refreshed and have the energy to tackle my day.
                 Vitality Clinic helped me rediscover my zest for life!"

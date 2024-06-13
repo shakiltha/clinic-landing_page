@@ -1,6 +1,6 @@
 const FrequentlyAsked = () => {
   return (
-    <div className="mx-2 mt-7 xl:mt-[35rem]">
+    <div className="mx-2 mt-7 xl:mt-[35rem] lg:w-3/4 lg:mx-auto">
       <div className="xl:w-[40rem] xl:mx-auto xl:text-center xl:my-5">
         <h2 className="font-neueHaasDisplayMedium text-2xl lg:text-3xl">
           Frequently Asked Questions
